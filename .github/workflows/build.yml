@@ -30,7 +30,7 @@ jobs:
           - openwrt-22.03
 
     steps:
-      - uses: actions/checkout@v4.1.2
+      - uses: actions/checkout@v4.2.0
         with:
           fetch-depth: 0
 
